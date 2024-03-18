@@ -1,12 +1,12 @@
-# Overview
+## Overview
 What is Customer churn? This is essentially the rate at which customers leave a business against the total customers that are actively in business. This is also known as churn rate or customer attrition.
 
-# Project Objective:
+## Project Objective:
 The objective of this analysis is to discover various factors contributing to increased customer churn rate at the bank, and provide the business users with these insights which they can use to make informed decisions and strategize on how to improve customer retention and reduce churn rate.
 
 Tools: I used Power BI and Power Query for this analysis.
 
-# Dataset Description
+## Dataset Description
 The raw data was provided in the form of a CSV file with 10,000 rows of data. Data was sourced from a commercial bank who was looking to improve its customer churn rate.
 Note: all personally Identifiable information has been removed from this data to protect customer’s private and sensitive information.
 
